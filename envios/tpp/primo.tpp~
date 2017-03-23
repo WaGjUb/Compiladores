@@ -1,0 +1,11 @@
+inteiro principal()
+	inteiro: digitado
+	inteiro: i
+	i := 1
+	repita
+		se (i/2.) -2 > 0
+			escreva (i)
+		fim
+		i := i+1
+	até i <= digitado
+fim
